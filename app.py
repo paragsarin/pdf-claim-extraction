@@ -26,7 +26,7 @@ def main():
                  st.write("------------------------------------------------------------------------------------------------")
          
             
-        st.success("Hope I was able to save your time❤️")
+        st.success("Hope I could save you some time ❤️")
 
 
 #Invoking main function
