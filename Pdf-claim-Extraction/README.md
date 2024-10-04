@@ -1,2 +1,0 @@
-# 📧 Claim data Extraction Bot
-Claims Data Extraction Bot built with Groq, LangChain, and Streamlit. It allows users to upload a claims data PDF and automatically extracts relevant information. This extracted data can then be used to further automate processes, such as calling APIs to create FNOLs or file claims.
